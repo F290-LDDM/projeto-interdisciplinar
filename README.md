@@ -11,8 +11,6 @@
 
 Desenvolver, em equipe, um aplicativo móvel em Flutter que resolva um problema real ou atenda a uma necessidade de negócio. A solução deve integrar interface, regras de negócio e persistência remota por meio de uma API própria ou do Supabase.
 
-A atividade é uma especificação de escopo reduzido para o 5º semestre, tomando como referência de organização o [Projeto Interdisciplinar do 6º semestre](https://github.com/F290-LDMP/projeto-interdisciplinar). O foco aqui é o aplicativo móvel e sua integração com um backend; os requisitos de web, backoffice e Message Broker daquele projeto não são requisitos desta atividade.
-
 ## 2. Proposta
 
 Cada equipe definirá um produto e implementará um **MVP funcional**: uma jornada principal que possa ser executada do início ao fim e cujos dados sejam persistidos remotamente. Pode-se iniciar um projeto novo ou evoluir um projeto existente, desde que a equipe identifique o que foi desenvolvido para esta disciplina.
@@ -113,12 +111,3 @@ A rubrica proposta, com critérios e pesos, está em [Critérios de avaliação]
 - [ ] Repositório contém instruções, configuração de exemplo e contribuições.
 - [ ] Ficha resumida preenchida e links conferidos.
 - [ ] Ambiente e dados preparados; apresentação ensaiada para caber em 20 minutos.
-
-## 9. Referências
-
-- [Projeto Interdisciplinar — Laboratório de Desenvolvimento Multiplataforma (6º semestre)](https://github.com/F290-LDMP/projeto-interdisciplinar), referência de organização e formato de entrega.
-- [Flutter — documentação oficial](https://docs.flutter.dev/).
-- [Supabase — documentação oficial](https://supabase.com/docs).
-- PPC do curso DSM disponibilizado pelo docente. A atividade deve ser lida como recorte didático para LDDM no 5º semestre, não como substituição do PPC.
-
-**Versão do enunciado:** 1.0 — 27/11/2026. Ajustes posteriores devem ser comunicados pelo docente e registrados no histórico do repositório.
